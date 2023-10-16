@@ -1,0 +1,51 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.main-container {
+    font-family: "Times New Roman", Times, serif;
+    display: flex;
+    justify-content: space-between;
+    margin: 40px 170px;
+}
+
+.first-main-container {
+    margin-right: 50px;
+}
+
+header {
+    display: flex;
+    color: teal;
+    justify-content: space-between;
+    line-height: 40px;
+}
+
+.title {
+    margin-top: 10px;
+    color: rgb(255, 170, 0);
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.title2 {
+    margin-top: 10px;
+    color: darkblue;
+    font-weight: bold;
+    font-size: 15px;
+    margin-bottom: 10px;
+}
+
+button {
+    margin-top: 8px;
+    padding: 5px;
+}
+
+h5 {
+    color: black;
+}
+
+.link-a {
+    line-height: 30px;
+}
